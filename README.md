@@ -1,1 +1,1 @@
-# for https://nubiza.github.io
+# for https://nubiza.github.io/update/req.html
